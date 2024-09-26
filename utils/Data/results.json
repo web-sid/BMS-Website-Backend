@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Savita Soni",
+    "age": 55,
+    "location": "Delhi",
+    "result": "Lost 16kgs",
+    "imageUrl": "Savita-result.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Ankit Joshi",
+    "age": 31,
+    "location": "Delhi",
+    "result": "Lost 18kgs",
+    "imageUrl": "Ankit-result.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Mamta Sharma",
+    "age": 38,
+    "location": "Uttar Pradesh",
+    "result": "Lost 30kgs",
+    "imageUrl": "mamta-result.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Amit",
+    "age": 28,
+    "location": "Uttar Pradesh",
+    "result": "Lost 29kgs",
+    "imageUrl": "amit-result.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Uma",
+    "age": 40,
+    "location": "Vasundhra Enclave, Delhi",
+    "result": "Lost 21kgs",
+    "imageUrl": "uma-result.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Rekha",
+    "age": 51,
+    "location": "New Ashok Nagar, Delhi",
+    "result": "Lost 17kgs",
+    "imageUrl": "rekha-result.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Yogita",
+    "age": 43,
+    "location": "Delhi",
+    "result": "Lost 45kgs",
+    "imageUrl": "yogita-result.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Rohini",
+    "age": 53,
+    "location": "Delhi",
+    "result": "Lost 15.5kg",
+    "imageUrl": "rohini-result.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Sumita",
+    "age": 42,
+    "location": "Delhi",
+    "result": "Lost 29kgs",
+    "imageUrl": "sumita-result.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Dipika",
+    "age": 50,
+    "location": "Delhi",
+    "result": " Lost 35kgs",
+    "imageUrl": "deepika-result.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Beena",
+    "age": 60,
+    "location": "Moradabad",
+    "result": " Lost 12kgs",
+    "imageUrl": "beena-result.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Dipika",
+    "age": 50,
+    "location": "Delhi",
+    "result": " Lost 35kgs",
+    "imageUrl": "deepika-result.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Kundan Sharma",
+    "age": 38,
+    "location": "Delhi",
+    "result": " Lost 14kgs",
+    "imageUrl": "kundan-result.jpeg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Savita Soni",
+    "age": 56,
+    "joined": "2009",
+    "experience": "15 yrs",
+    "imageUrl": "Savita-img.jpeg"
+  },
+  {
+    "name": "Siddharth Soni",
+    "age": 24,
+    "joined": "2020",
+    "experience": "4 yrs",
+    "imageUrl": "Sid-img.jpeg"
+  },
+  {
+    "name": "Shanaya Verma",
+    "age": 24,
+    "joined": "2022",
+    "experience": "2 yrs",
+    "imageUrl": "Shanaya-img.jpeg"
+  },
+  {
+    "name": "Ankit Joshi",
+    "age": 31,
+    "joined": "2015",
+    "experience": "9 yrs",
+    "imageUrl": "Ankit-img.jpeg"
+  }
+]

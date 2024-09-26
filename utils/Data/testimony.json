@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Chandani ",
+    "imageUrl": "chandani.jpeg",
+    "description": "After using Herbalife, I've experienced a remarkable transformation. Starting my day with Herbalife has become a refreshing and fulfilling ritual. I've noticed a significant improvement in my hydration levels and my skin is glowing like never before. I no longer experience the discomfort of being in starvation mode, and I've completely cut out caffeine, leading to better digestion and overall wellness. The supportive community has been a source of constant positivity and encouragement, making my journey even more enjoyable. Thank you, Herbalife, for this wonderful transformation. I feel healthier, happier, and more energized than ever.💓",
+    "age": 38,
+    "location": "USA"
+  },
+
+  {
+    "id": 2,
+    "name": "Sandhya",
+    "imageUrl": "sandhya.jpeg",
+    "description": "Since incorporating Herbalife into my routine, I've embraced a healthier lifestyle. A nutritious Herbalife breakfast kick-starts my day, while maintaining good water intake has become second nature. Not only has my skin become radiant, but I'm also enjoying better sleep and have noticed a significant improvement in my breathing. The positive energy and increased stamina I've gained are testament to the transformative effects of Herbalife. Thank you, Herbalife, for helping me achieve this incredible boost in vitality and well-being!",
+    "age": 51,
+    "location": "Brailey"
+  },
+  {
+    "id": 3,
+    "name": "Beena",
+    "imageUrl": "beena.jpeg",
+    "description": "Since joining Herbalife, my mornings have been transformed by the nutritious goodness of Herbalife nutrition as my go-to breakfast. I've noticed a significant decrease in my sweet cravings and my energy levels have soared. The discomfort in my legs is a thing of the past, and I feel consistently energetic throughout the day. Being part of the Herbalife family has brought me an abundance of positivity, leaving me feeling happier and more optimistic. A heartfelt thanks to Herbalife and to Savita ma'am for this incredible journey!",
+    "age": 60,
+    "location": "Moradabad"
+  },
+  {
+    "id": 4,
+    "name": "Sumita",
+    "imageUrl": "sumita.jpeg",
+    "description": "Before Herbalife, I was battling obesity, severe acidity, and a miserable routine. Herbalife changed my life for the better by introducing me to a healthy lifestyle. Within days, I noticed a remarkable increase in my energy levels, and my hydration improved significantly. I no longer suffer from acidity and indigestion. Thanks to Herbalife any my coach Savita ma'am, my life has been transformed, and I am grateful for the positive impact it has brought about.",
+    "age": 45,
+    "location": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Pawan",
+    "imageUrl": "pawan.jpeg",
+    "description": "Before Herbalife, my eating habits were erratic, often skipping lunch and not drinking enough water. Proper sleep was a luxury, and I indulged in sweets frequently. However, after embracing Herbalife, my life took a positive turn. I now prioritize regular, balanced meals, proper sleep, and increased water intake. As a result, I feel more energetic and revitalized. I'm deeply grateful to Herbalife and Savita ma'am for this transformative journey.",
+    "age": 28,
+    "location": "Chandigarh"
+  },
+  {
+    "id": 6,
+    "name": "Rohini",
+    "imageUrl": "rohini.jpeg",
+    "description": "Before Herbalife, I faced numerous health challenges, from counting calories and struggling with high triglycerides and LDL to being hypertensive and battling weight gain. I even suffered severe headaches from sweets and dealt with severe spondylitis. Since embracing Herbalife, I've experienced a remarkable turnaround. I now approach eating mindfully, my health markers have normalized, and I no longer require medication for high blood pressure. I've successfully shed weight and can even indulge in Diwali sweets without adverse effects. It's truly a testament to the power of this wonderful nutrition, the supportive community, and my dedicated coach, Savita ma'am. I'm deeply thankful for this transformative journey. 🙏🏻",
+    "age": 55,
+    "location": "Delhi"
+  }
+]

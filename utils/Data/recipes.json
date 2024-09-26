@@ -1,0 +1,886 @@
+[
+  {
+    "recipeName": "Avocado Carrot Shake",
+    "imageUrl": "avocado-carrot.jpg",
+    "ingredients": [
+      {
+        "quantity": "3 scoops",
+        "item": "Formula 1 Nutritional Shake Mix, Vanilla Flavor"
+      },
+      {
+        "quantity": "300ml",
+        "item": "skimmed milk or soy milk"
+      },
+      {
+        "quantity": "1/8",
+        "item": "avocado"
+      },
+      {
+        "quantity": "1/4 cup",
+        "item": "fresh carrots"
+      },
+      {
+        "quantity": "optional",
+        "item": "Ice cubes"
+      }
+    ],
+    "instructions": [
+      "1. Start by adding the 3 scoops of Formula 1 Nutritional Shake Mix into a blender.",
+      "2. Pour in the 300ml of skimmed milk or soy milk.",
+      "3. Add the 1/8 of an avocado to the blender.",
+      "4. Measure and add the 1/4 cup of fresh carrots.",
+      "5. Finally, add the 4 ice cubes to the mixture.",
+      "6. Blend Until Smooth: Secure the lid on the blender and blend all the ingredients together on high speed until the mixture is smooth and creamy. Ensure there are no chunks of avocado or carrots left.",
+      "7. Serve Immediately: Pour the shake into a glass. For an extra touch, you can garnish with a slice of avocado or a sprinkle of carrot shavings.",
+      "8. Enjoy: Enjoy your nutritious and delicious Avocado Carrot Shake immediately while it’s fresh and cold."
+    ]
+  },
+  {
+    "recipeName": "Black Sesame Shake",
+    "imageUrl": "black-sesame.jpg",
+
+    "ingredients": [
+      {
+        "quantity": "3 scoops",
+        "item": "Formula 1 Nutritional Shake Mix, Vanilla Flavor"
+      },
+      {
+        "quantity": "300ml",
+        "item": "skimmed milk or soy milk"
+      },
+      {
+        "quantity": "1/2",
+        "item": "banana"
+      },
+      {
+        "quantity": "1 teaspoon",
+        "item": "black sesame seeds"
+      },
+      {
+        "quantity": "4",
+        "item": "Ice cubes",
+        "optional": true
+      }
+    ],
+    "instructions": [
+      "1. Peel and slice the banana.",
+      "2. Measure out the skimmed milk or soy milk.",
+      "3. Measure out the black sesame seeds.",
+      "4. Gather 3 scoops of Formula 1 Nutritional Shake Mix, Vanilla Flavor",
+      "5. In a blender, combine the Formula 1 Nutritional Shake Mix, vanilla flavor, skimmed milk or soy milk, banana slices, black sesame seeds, and ice cubes.",
+      "6. Blend all ingredients together until smooth and creamy. Make sure the ice cubes are fully crushed and incorporated.",
+      "7. Pour the shake into a glass or a shaker bottle.",
+      "8. Serve the vanilla shake immediately for the best taste and texture."
+    ]
+  },
+  {
+    "recipeName": "Papaya Shake",
+    "imageUrl": "papaya.jpg",
+
+    "ingredients": [
+      {
+        "quantity": "3 scoops",
+        "item": "Formula 1 Nutritional Shake Mix - Strawberry"
+      },
+      {
+        "quantity": "1 scoop",
+        "item": "personalized protein powder"
+      },
+      {
+        "quantity": "250ml",
+        "item": "cold water"
+      },
+      {
+        "quantity": "1/2 cup",
+        "item": "fresh strawberry halves"
+      },
+      {
+        "quantity": "1",
+        "item": "kiwifruit, peeled and coarsely chopped"
+      },
+      {
+        "quantity": "4",
+        "item": "ice cubes",
+        "optional": true
+      }
+    ],
+    "instructions": [
+      "1. In a blender, add the 3 scoops of Formula 1 Nutritional Shake Mix - Strawberry.",
+      "2. Add the 1 scoop of personalized protein powder.",
+      "3. Pour in the 250ml of cold water.",
+      "4. Add the 1/2 cup of fresh strawberry halves.",
+      "5. Add the coarsely chopped kiwifruit.",
+      "6. Finally, add the 4 ice cubes to the blender.",
+      "7. Cover the blender with the lid securely.",
+      "8. Blend the mixture on high speed until smooth and creamy.",
+      "9. Ensure all the ingredients are well incorporated and the shake is smooth.",
+      "10. Once blended, pour the shake into a tall glass.",
+      "11. Serve immediately while cold for the best taste and texture."
+    ]
+  },
+  {
+    "recipeName": "Orange Mango Shake",
+    "imageUrl": "orange-mango.jpg",
+
+    "ingredients": [
+      {
+        "quantity": "3 scoops",
+        "item": "Formula 1 Nutritional Shake Mix - Orange Cream Flavor"
+      },
+      {
+        "quantity": "1 scoop",
+        "item": "Personalized Protein Powder"
+      },
+      {
+        "quantity": "300ml",
+        "item": "skimmed milk or soy milk"
+      },
+      {
+        "quantity": "1/2 cup",
+        "item": "fresh mango chunks"
+      },
+      {
+        "quantity": "1/2 cup",
+        "item": "fresh orange fruit (deseeded)"
+      },
+      {
+        "quantity": "4",
+        "item": "ice cubes",
+        "optional": true
+      }
+    ],
+    "instructions": [
+      "1. In a blender, add the 3 scoops of Formula 1 Nutritional Shake Mix - Orange Cream Flavor.",
+      "2. Add the 1 scoop of Personalized Protein Powder.",
+      "3. Pour in the 300ml of skimmed milk or soy milk.",
+      "4. Add the 1/2 cup of fresh mango chunks.",
+      "5. Add the 1/2 cup of deseeded fresh orange fruit.",
+      "6. Finally, add the 4 ice cubes to the blender.",
+      "7. Cover the blender with the lid securely.",
+      "8. Blend the mixture on high speed until smooth and creamy.",
+      "9. Ensure all the ingredients are well incorporated and the shake is smooth.",
+      "10. Once blended, pour the shake into a tall glass.",
+      "11. Serve immediately while cold for the best taste and texture."
+    ]
+  },
+  {
+    "recipeName": "Chocolate Banana Shake",
+    "imageUrl": "chocolate-banana.jpg",
+
+    "ingredients": [
+      {
+        "quantity": "3 scoops",
+        "item": "Formula 1 Nutritional Shake Mix - Dutch Chocolate"
+      },
+      {
+        "quantity": "1 scoop",
+        "item": "Personalized Protein Powder"
+      },
+      {
+        "quantity": "1",
+        "item": "ripe banana"
+      },
+      {
+        "quantity": "300ml",
+        "item": "skimmed milk or soy milk"
+      },
+      {
+        "quantity": "4",
+        "item": "Ice cubes",
+        "optional": true
+      }
+    ],
+    "instructions": [
+      "1. In a blender, add the 3 scoops of Formula 1 Nutritional Shake Mix - Dutch Chocolate.",
+      "2. Add the 1 scoop of Personalized Protein Powder.",
+      "3. Add the sliced ripe banana.",
+      "4. Pour in the 300ml of skimmed milk or soy milk.",
+      "5. Add the 4 ice cubes to the blender.",
+      "6. Secure the blender lid tightly.",
+      "7. Blend the mixture on high speed until smooth and creamy.",
+      "8. Ensure all ingredients are thoroughly blended and the shake is smooth.",
+      "9. Once blended to your desired consistency, pour the shake into a tall glass.",
+      "10. Optionally, garnish with a slice of banana or a sprinkle of cocoa powder.",
+      "11. Serve immediately while cold for optimal taste and texture."
+    ]
+  },
+  {
+    "recipeName": "Spiced Chai Shake",
+    "imageUrl": "spiced-chai.webp",
+
+    "ingredients": [
+      {
+        "quantity": "3 scoops",
+        "item": "Formula 1 Nutritional Shake Mix - Vanilla Flavor"
+      },
+      {
+        "quantity": "1/2 teaspoon",
+        "item": "Afresh Energy Drink Mix Cinnamon Flavor"
+      },
+      {
+        "quantity": "300ml",
+        "item": "skimmed milk or soy milk"
+      },
+      {
+        "quantity": "1",
+        "item": "small banana sliced"
+      },
+      {
+        "quantity": "1/2 teaspoon",
+        "item": "chai spice blend (cinnamon, clove, nutmeg, white pepper, cardamom)"
+      },
+      {
+        "quantity": "4",
+        "item": "ice cubes",
+        "optional": true
+      }
+    ],
+    "instructions": [
+      "1. In a blender, add the 3 scoops of Formula 1 Nutritional Shake Mix - Vanilla Flavor.",
+      "2 Add the 1/2 teaspoon of Afresh Energy Drink Mix Cinnamon Flavor.",
+      "3. Pour in the 300ml of skimmed milk or soy milk.",
+      "4. Add the sliced small banana.",
+      "5. Sprinkle the 1/2 teaspoon of chai spice blend into the blender.",
+      "6. Add the 4 ice cubes.",
+      "7. Secure the blender lid tightly.",
+      "8. Blend the mixture on high speed until smooth and creamy.",
+      "9. Ensure all ingredients are thoroughly blended and the shake has a smooth consistency.",
+      "10. Once blended to your desired consistency, pour the shake into a tall glass.",
+      "11. Optionally, garnish with a sprinkle of chai spice blend on top.",
+      "12. Serve immediately while cold for optimal taste and texture."
+    ]
+  },
+  {
+    "recipeName": "Beetroot Oats Chilla",
+    "imageUrl": "beetroot-chilla.jpg",
+    "ingredients": [
+      {
+        "item": "Oats",
+        "quantity": "284gm"
+      },
+      {
+        "item": "Beetroot",
+        "quantity": "170gm",
+        "preparation": "grated"
+      },
+      {
+        "item": "Curd",
+        "quantity": "341gm"
+      },
+      {
+        "item": "Green chilly",
+        "quantity": "1 chilli",
+        "preparation": "finely chopped"
+      },
+      {
+        "item": "Water",
+        "quantity": "1/2 cup",
+        "note": "as per desired consistency"
+      },
+      {
+        "item": "Salt",
+        "quantity": "as per requirement"
+      },
+      {
+        "item": "Chilli powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "item": "Kitchen king",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "item": "Coriander leaves",
+        "quantity": "15-20",
+        "preparation": "finely chopped"
+      },
+      {
+        "item": "Ghee",
+        "quantity": "1 tbsp"
+      }
+    ],
+    "instructions": [
+      "1. Take a bowl and add oats, curd, and grated beetroot. Slowly add water to achieve the desired consistency.",
+      "2. Add finely chopped green chilies, salt, chilli powder, and kitchen king masala to the mixture. Let it sit for 15 minutes.",
+      "3. Heat a pan and brush it with ghee. Spread the batter evenly on the pan and garnish with leftover beetroot shreds and finely chopped coriander leaves.",
+      "4. Cook on both sides until properly cooked through.",
+      "5. Serve hot with homemade green chutney."
+    ]
+  },
+  {
+    "recipeName": "Flax & Chia Seed Chips",
+    "imageUrl": "flex-chia-chips.webp",
+    "ingredients": [
+      {
+        "item": "Salt",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Baking soda",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Whole wheat flour",
+        "quantity": "100 gm"
+      },
+      {
+        "item": "Flaxseed",
+        "quantity": "2 tbsp"
+      },
+      {
+        "item": "Sesame seeds",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "Chia seeds",
+        "quantity": "1/2 cup"
+      },
+      {
+        "item": "Coconut oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Flax seeds (for garnish)",
+        "quantity": "as needed"
+      },
+      {
+        "item": "Sesame seeds (for garnish)",
+        "quantity": "as needed"
+      }
+    ],
+    "instructions": [
+      "1. In a bowl, combine 1 tbsp salt, 1 tbsp baking soda, 100 gm whole wheat flour, 1 cup sesame seeds, and 1/2 cup chia seeds.",
+      "2. Mix well and add water gradually to form a dough. Add 1 tbsp coconut oil to the dough.",
+      "3. Place the dough on butter paper and roll it into a thin, flat base. Optionally, dust some flour on top.",
+      "4. Ensure the base is rolled out thinly for crispy chips.",
+      "5. Brush a little oil on top of the base and garnish with flax seeds and sesame seeds.",
+      "6. Cut the base into chip shapes.",
+      "7. Preheat the oven to 150°C.",
+      "8. Bake the chips in the preheated oven for 10 minutes.",
+      "9. Serve the crispy chips with a yogurt dip."
+    ]
+  },
+  {
+    "recipeName": "High Protein Moong Dal Omelette (Moonglet)",
+    "imageUrl": "moondal-omellete.webp",
+    "ingredients": [
+      {
+        "item": "Moong dal",
+        "quantity": "1 cup (250 g)",
+        "preparation": "soaked overnight and ground to a coarse paste"
+      },
+      {
+        "item": "Green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "item": "Tomato",
+        "quantity": "1, chopped"
+      },
+      {
+        "item": "Carrot",
+        "quantity": "1/2, thinly sliced or chopped"
+      },
+      {
+        "item": "Flax seeds powder",
+        "quantity": "1/2 tbsp"
+      },
+      {
+        "item": "Capsicum",
+        "quantity": "1, chopped"
+      },
+      {
+        "item": "Coriander leaves",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "item": "Ghee",
+        "quantity": "1/2 tbsp, plus more for cooking"
+      },
+      {
+        "item": "Asafoetida (hing)",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "item": "Black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "item": "Salt",
+        "quantity": "as needed"
+      },
+      {
+        "item": "Vegetables for garnishing",
+        "note": "such as sliced beetroot, ginger, additional chillies, etc."
+      }
+    ],
+    "instructions": [
+      "1. Soak moong dal overnight. The next day, grind it to a coarse paste without adding water.",
+      "2. In a bowl, mix the ground moong dal paste with salt, chopped veggies (green chilli, tomato, carrot, capsicum), flax seeds powder, asafoetida, and black pepper.",
+      "3. Mix everything well to make a fluffy batter.",
+      "4. Heat a heavy-bottomed pan with a generous amount of ghee.",
+      "5. Pour 2 ladles full of batter onto the pan to make a thick pancake (chilla).",
+      "6. Cook covered patiently until the bottom develops a golden crust.",
+      "7. Carefully flip the moonglet and continue to cook on the other side. Slit open into 4 parts with a spatula and smear ghee as needed.",
+      "8. When both sides are golden and crisp, remove from the pan and serve immediately.",
+      "9. Optionally, garnish with additional vegetables like sliced beetroot, ginger, or chillies.",
+      "10. Enjoy your high protein moong dal omelette (moonglet)!"
+    ]
+  },
+  {
+    "recipeName": "Khajur Wafer Barfi",
+    "imageUrl": "khajur-barfi.jpg",
+    "ingredients": [
+      {
+        "item": "Khajur (Dates)",
+        "quantity": "200 gms",
+        "preparation": "without seeds, chopped"
+      },
+      {
+        "item": "Desi ghee",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Almonds",
+        "quantity": "25 gms",
+        "preparation": "chopped"
+      },
+      {
+        "item": "Cashews",
+        "quantity": "25 gms",
+        "preparation": "chopped"
+      },
+      {
+        "item": "Pistachio",
+        "quantity": "25 gms",
+        "preparation": "chopped"
+      },
+      {
+        "item": "Choti elaichi (Cardamom) powder",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "item": "Salt",
+        "quantity": "a pinch"
+      },
+      {
+        "item": "Wafers",
+        "quantity": "2 packets (any flavor)"
+      },
+      {
+        "item": "Chocolate",
+        "quantity": "1 bar (for melting)"
+      }
+    ],
+    "instructions": [
+      "1. In a pan, heat desi ghee and add all the chopped dried fruits (almonds, cashews, pistachios). Saute until golden brown on medium flame.",
+      "2. Add the chopped khajur (dates) and mix until the khajur paste softens and blends with the dry fruits.",
+      "3. Add choti elaichi powder and a pinch of salt, then mix well.",
+      "4. Turn off the stove.",
+      "5. Take a square or rectangular bowl and line it with baking paper.",
+      "6. Spread the mixture evenly and smoothly in the bowl with a spatula, achieving medium thickness.",
+      "7. Refrigerate for 15 minutes to set.",
+      "8. Melt the chocolate bar.",
+      "9. After 15 minutes, demould the mixture using the baking paper for easy removal.",
+      "10. Remove the baking paper and cut the mixture into desired shapes.",
+      "11. Place a wafer and spread melted chocolate on it. Place a date mixture between two wafers and press firmly.",
+      "12. Repeat to make more pieces.",
+      "13. Store the khajur wafer barfi in an airtight container. It can be stored for 10-15 days."
+    ]
+  },
+  {
+    "recipeName": "Makhana Ladoo",
+    "imageUrl": "makhana-ladoo.jpg",
+
+    "ingredients": [
+      {
+        "item": "Fox nuts (Makhana)",
+        "quantity": "3 cups (about 30 grams)"
+      },
+      {
+        "item": "Almonds",
+        "quantity": "15 pieces (about 15 grams)"
+      },
+      {
+        "item": "Poppy seeds (khus khus)",
+        "quantity": "6 teaspoons (about 30 grams)"
+      },
+      {
+        "item": "Seedless Dates",
+        "quantity": "10 pieces (about 50 grams), soaked in hot water"
+      },
+      {
+        "item": "Personalised Protein Powder (PPP)",
+        "quantity": "2 scoops"
+      },
+      {
+        "item": "Water",
+        "quantity": "1/4 cup (for cooking dates)"
+      }
+    ],
+    "instructions": [
+      "1. Heat a kadai on low flame. Add 3 cups of fox nuts (makhana) and roast them slowly for 6 to 8 minutes until they are crisp. Crush one makhana to check if it is fully roasted. Transfer roasted makhana to a plate and allow it to cool down.",
+      "2. In the same kadai, roast 15 almonds for a few minutes until lightly roasted. Transfer to a plate and let them cool down.",
+      "3. Roast 6 teaspoons of poppy seeds (khus khus) in the kadai for 2-3 minutes. Transfer to a separate plate and allow to cool down.",
+      "4. Take 10 pieces of soaked seedless dates in a bowl. Drain the water and transfer them to a mixer grinder.",
+      "5. Make a smooth paste of the dates. Add a little water if necessary.",
+      "6. In a pan, take 1/4 cup of water and add the ground dates paste. Cook it until its color changes and it thickens to form a syrup.",
+      "7. In the mixer grinder, add the cooled roasted fox nuts (makhana) and almonds. Coarsely grind them.",
+      "8. Add this mixture to the date syrup in the pan. Also, add the roasted poppy seeds (khus khus) to the pan.",
+      "9. Switch off the gas and mix all the ingredients well until combined thoroughly.",
+      "10. Transfer the mixture to a plate and allow it to cool slightly.",
+      "11. When the mixture is warm, start shaping it into medium-sized ladoos. Each ladoo should weigh around 16-17 grams.",
+      "12. Enjoy your homemade makhana ladoos!"
+    ]
+  },
+  {
+    "recipeName": "Papaya Smoothie",
+    "imageUrl": "papaya-smoothie.jpg",
+
+    "ingredients": [
+      {
+        "item": "Chopped papaya",
+        "quantity": "1 bowl (approx 215 g)"
+      },
+      {
+        "item": "Any Formula 1 shake",
+        "quantity": "2 spoons"
+      },
+      {
+        "item": "Curd/Yoghurt",
+        "quantity": "1 bowl (approx 240 g)"
+      },
+      {
+        "item": "Fiber Complex",
+        "quantity": "1 spoon"
+      },
+      {
+        "item": "Chia seeds",
+        "quantity": "1 tsp, soaked overnight"
+      },
+      {
+        "item": "Seed mixture",
+        "quantity": "1 tsp"
+      },
+      {
+        "item": "Water",
+        "quantity": "as needed"
+      },
+      {
+        "item": "Finely chopped fig",
+        "quantity": "1"
+      }
+    ],
+    "instructions": [
+      "1. Take a big bowl full of chopped papaya and add it to a blending jar.",
+      "2. Add 2 spoons of Formula 1 shake along with a bowl of curd.",
+      "3. Put all the ingredients in a blender and add some water.",
+      "4. Add a handful of seed mixture containing seeds of your choice. Blend until a fine paste forms.",
+      "5. In a glass, add a spoonful of overnight soaked chia seeds. Pour the smoothie blend on top of it.",
+      "6. Add one finely chopped fig. Give the ingredients a final mix.",
+      "7. Your Papaya Smoothie is ready to consume. Top it off with some more seeds for some extra crunch."
+    ]
+  },
+  {
+    "recipeName": "Sweet Potato Chaat",
+    "imageUrl": "sweet-potato-chaat.jpg",
+
+    "ingredients": [
+      {
+        "item": "Boiled Sweet Potato",
+        "quantity": "2-3"
+      },
+      {
+        "item": "Oats flour",
+        "quantity": "1/2 cup"
+      },
+      {
+        "item": "Salt",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Red chilli powder",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Kitchen king masala",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Kasuri methi",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Green chilli",
+        "quantity": "2"
+      },
+      {
+        "item": "Coriander leaves",
+        "quantity": "5-6 leaves"
+      },
+      {
+        "item": "Ginger",
+        "quantity": "1/2 inch piece, grated"
+      },
+      {
+        "item": "Lemon",
+        "quantity": "1"
+      },
+      {
+        "item": "Flax seed powder",
+        "quantity": "2 tbsp"
+      },
+      {
+        "item": "Water",
+        "quantity": "as needed"
+      },
+      {
+        "item": "Yogurt",
+        "quantity": "2 tbsp"
+      },
+      {
+        "item": "Green chilli chutney",
+        "quantity": "2 tbsp"
+      },
+      {
+        "item": "Chaat masala",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Red chilli powder",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Salt",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Pomegranate seeds",
+        "quantity": "4 tbsp"
+      }
+    ],
+    "instructions": [
+      "1. Take a bowl and mash boiled sweet potato. Add oats flour, salt, red chilli powder, kitchen king masala, kasuri methi, chopped green chilli, chopped coriander leaves, grated ginger, and lemon juice. Mix well to form a dough and shape it into tikkis.",
+      "2. In another bowl, mix flax seed powder with water to make a batter. Dip each tikki into the batter.",
+      "3. Heat a pan over medium flame. Place the dipped tikkis on the heated pan and cook until they turn golden brown on both sides.",
+      "4. For the topping, spread yogurt and green chilli chutney over the cooked tikkis. Sprinkle chaat masala, red chilli powder, and salt as per taste.",
+      "5. Garnish with grated ginger and pomegranate seeds.",
+      "6. Serve hot and crispy sweet potato chaat."
+    ]
+  },
+  {
+    "recipeName": "Soya 65",
+    "imageUrl": "soya65.webp",
+
+    "ingredients": [
+      {
+        "item": "Soya Chunks",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "Degi Red Chilli Powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "item": "Turmeric (Haldi)",
+        "quantity": "1 tsp"
+      },
+      {
+        "item": "Garam Masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "item": "Coriander Powder (Dhaniya powder)",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Chopped Garlic",
+        "quantity": "2-3 cloves"
+      },
+      {
+        "item": "Coriander leaves (Dhaniya)",
+        "quantity": "a few, chopped"
+      },
+      {
+        "item": "Curd (Dahi)",
+        "quantity": "2-3 tbsp"
+      },
+      {
+        "item": "Maida (All-purpose flour)",
+        "quantity": "3 tbsp"
+      },
+      {
+        "item": "Cornflour",
+        "quantity": "3 tbsp"
+      },
+      {
+        "item": "Oil for frying",
+        "quantity": "as needed"
+      },
+      {
+        "item": "Curry Patta (Curry leaves)",
+        "quantity": "a few"
+      },
+      {
+        "item": "Rai (Mustard seeds)",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "item": "Green Chilli",
+        "quantity": "1, chopped"
+      }
+    ],
+    "instructions": [
+      "1. Add soya chunks to boiling water and let them boil for 8-10 minutes.",
+      "2. Wash the boiled soya chunks in cold water and squeeze out the excess water.",
+      "3. In a bowl, combine the boiled soya chunks with degi red chilli powder, turmeric, garam masala, coriander powder, chopped garlic, chopped coriander leaves, curd, maida, and cornflour. Mix well until all the ingredients are evenly coated.",
+      "4. Heat oil in a deep frying pan. Once the oil is hot, deep fry the soya chunks until they are golden brown and crispy.",
+      "5. In a separate pan, heat a little oil and add rai, curry patta, and chopped green chilli. Sauté until fragrant.",
+      "6. Add the fried soya chunks to the pan and mix well with the tempering ingredients.",
+      "7. Serve the Soya 65 hot, garnished with fresh coriander leaves."
+    ]
+  },
+  {
+    "recipeName": "Strawberry Oats Smoothie",
+    "imageUrl": "strawberry-banana-oat-smoothie.jpg",
+
+    "ingredients": [
+      {
+        "item": "Rolled oats",
+        "quantity": "1/2 cup"
+      },
+      {
+        "item": "Whey Protein",
+        "quantity": "1 scoop"
+      },
+      {
+        "item": "Fresh strawberry purée",
+        "quantity": "1/3 cup"
+      },
+      {
+        "item": "Greek yogurt",
+        "quantity": "1/4 cup"
+      },
+      {
+        "item": "Almond milk",
+        "quantity": "1/2 cup"
+      }
+    ],
+    "instructions": [
+      "1. In a blender, add rolled oats, whey protein, fresh strawberry purée, Greek yogurt, and almond milk.",
+      "2. Blend until smooth and creamy.",
+      "3. If the consistency is too thick, add more almond milk to reach your desired texture.",
+      "4. Pour into a glass and serve immediately.",
+      "5. Enjoy your Strawberry Oats Smoothie!"
+    ]
+  },
+  {
+    "recipeName": "Suji Tacos",
+    "imageUrl": "suji-tacos.jpg",
+
+    "ingredients": [
+      {
+        "item": "Suji (Semolina)",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "Curd",
+        "quantity": "1/2 cup"
+      },
+      {
+        "item": "Water",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "Salt",
+        "quantity": "as per taste"
+      },
+      {
+        "item": "Eno (fruit salt)",
+        "quantity": "1 tsp"
+      },
+      {
+        "item": "Filling of choice (e.g., vegetables, paneer, etc.)"
+      }
+    ],
+    "instructions": [
+      "1. In a bowl, mix suji, curd, and water to make a batter. Add salt to taste.",
+      "2. Let the batter rest for 10-15 minutes.",
+      "3. Just before making tacos, add eno (fruit salt) to the batter and mix well. The batter will become frothy.",
+      "4. Heat a non-stick pan or tawa over medium heat. Pour a ladleful of batter onto the pan and spread it in a circular motion to make a thin wrap.",
+      "5. Cook the wrap on medium heat until bubbles appear on the surface and the edges start to lift. Flip and cook the other side until light golden brown.",
+      "6. Remove the wrap from the pan and repeat with the remaining batter to make more wraps.",
+      "7. Place a portion of your preferred filling in the center of each wrap and fold it into a taco shape.",
+      "8. Serve the Suji Tacos immediately with your favorite toppings or sauces."
+    ]
+  },
+  {
+    "recipeName": "Pineapple Masala Drink",
+    "imageUrl": "Pineapple_Jal_jeera.jpg",
+
+    "ingredients": [
+      {
+        "item": "Chopped pineapples",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "Black salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "item": "Honey",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "Mint leaves",
+        "quantity": "a few leaves"
+      },
+      {
+        "item": "Cumin powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "item": "Chaat masala",
+        "quantity": "1/2 tsp"
+      }
+    ],
+    "instructions": [
+      "1. In a blender, add chopped pineapples, black salt, honey, mint leaves, cumin powder, and chaat masala.",
+      "2. Blend until smooth and well combined.",
+      "3. Taste and adjust sweetness or seasoning if needed.",
+      "4. Pour the Pineapple Masala Drink into glasses.",
+      "5. Garnish with a mint leaf on top for decoration, if desired.",
+      "6. Serve chilled and enjoy your refreshing Pineapple Masala Drink!"
+    ]
+  },
+  {
+    "recipeName": "50 Kcal Drink",
+    "imageUrl": "water-oatmeal.jpg",
+
+    "ingredients": [
+      {
+        "item": "Ice"
+      },
+      {
+        "item": "Oats",
+        "quantity": "2 spoonfuls"
+      },
+      {
+        "item": "Watermelon",
+        "quantity": "100g, chopped"
+      },
+      {
+        "item": "Dates",
+        "quantity": "2, pitted"
+      }
+    ],
+    "instructions": [
+      "1. Place ice, oats, chopped watermelon, and pitted dates into a blender.",
+      "2. Blend until smooth and well combined.",
+      "3. Add small slices of watermelon (about 50g) and additional ice cubes if desired.",
+      "4. Blend briefly to mix in the slices and chill the drink.",
+      "5. Pour into a glass and serve chilled.",
+      "6. Enjoy your refreshing and low-calorie 50 Kcal Drink!"
+    ]
+  }
+]
